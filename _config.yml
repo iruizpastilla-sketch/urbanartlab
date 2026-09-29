@@ -1,0 +1,12 @@
+# GitHub Pages (Jekyll): que no publique archivos internos en la dirección de pruebas.
+# include vacío quita el .htaccess que Jekyll copia por defecto.
+# Cualquier .md (guion, notas, CLAUDE.md, README) fuera: si no, Pages los convierte en páginas visibles.
+# Mantener esta lista igual que la de exclude en .github/workflows/publicar.yml (lo que se quite aquí y no allí
+# no saldrá en pruebas pero SÍ en la web real). Añadir en las dos las fuentes con licencia dudosa.
+# Ojo: Jekyll tampoco publica carpetas que empiezan por "_" (el FTP sí): no nombres así carpetas de la web.
+include: []
+exclude:
+  - "*.md"
+  - "**/*.md"
+  - tools
+  - node_modules

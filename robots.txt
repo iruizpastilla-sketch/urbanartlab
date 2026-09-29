@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Mientras haya propuestas de estilo en la dirección de pruebas (se quitan al elegir):
+Disallow: /propuesta-
+
+Sitemap: https://urbanartlablleida.com/sitemap.xml

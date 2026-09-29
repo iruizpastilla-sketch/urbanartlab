@@ -1,0 +1,305 @@
+{
+  "_nota": "Generado por tools/imagenes.js. Rutas relativas a la raíz de la web.",
+  "imagenes": {
+    "local-rotulo": {
+      "box": "local",
+      "alt_es": "Rótulo de Urban Art Lab en relieve sobre pared de papel kraft",
+      "alt_ca": "Rètol d'Urban Art Lab en relleu sobre paret de paper kraft",
+      "proporcion": "1206:678",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/local-rotulo-800.webp",
+          "ancho": 800,
+          "alto": 450,
+          "kb": 30
+        },
+        {
+          "archivo": "imagenes/web/local-rotulo-1200.webp",
+          "ancho": 1200,
+          "alto": 675,
+          "kb": 47
+        }
+      ]
+    },
+    "unas-blancas": {
+      "box": "beauty",
+      "alt_es": "Manicura en tono blanco lechoso, uñas cortas y redondeadas",
+      "alt_ca": "Manicura en to blanc lletós, ungles curtes i arrodonides",
+      "proporcion": "1903:2340",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/unas-blancas-480.webp",
+          "ancho": 480,
+          "alto": 590,
+          "kb": 17
+        },
+        {
+          "archivo": "imagenes/web/unas-blancas-800.webp",
+          "ancho": 800,
+          "alto": 984,
+          "kb": 37
+        },
+        {
+          "archivo": "imagenes/web/unas-blancas-1200.webp",
+          "ancho": 1200,
+          "alto": 1476,
+          "kb": 67
+        }
+      ]
+    },
+    "unas-francesa-colores": {
+      "box": "beauty",
+      "alt_es": "Manicura francesa con puntas de colores y flores pequeñas",
+      "alt_ca": "Manicura francesa amb puntes de colors i flors petites",
+      "proporcion": "1755:2340",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/unas-francesa-colores-480.webp",
+          "ancho": 480,
+          "alto": 640,
+          "kb": 27
+        },
+        {
+          "archivo": "imagenes/web/unas-francesa-colores-800.webp",
+          "ancho": 800,
+          "alto": 1067,
+          "kb": 59
+        },
+        {
+          "archivo": "imagenes/web/unas-francesa-colores-1200.webp",
+          "ancho": 1200,
+          "alto": 1600,
+          "kb": 100
+        }
+      ]
+    },
+    "unas-colores": {
+      "box": "beauty",
+      "alt_es": "Uñas pintadas cada una de un color, con cuadros y lunares",
+      "alt_ca": "Ungles pintades cadascuna d'un color, amb quadres i pics",
+      "proporcion": "1755:2340",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/unas-colores-480.webp",
+          "ancho": 480,
+          "alto": 640,
+          "kb": 18
+        },
+        {
+          "archivo": "imagenes/web/unas-colores-800.webp",
+          "ancho": 800,
+          "alto": 1067,
+          "kb": 40
+        },
+        {
+          "archivo": "imagenes/web/unas-colores-1200.webp",
+          "ancho": 1200,
+          "alto": 1600,
+          "kb": 72
+        }
+      ]
+    },
+    "unas-decoracion": {
+      "box": "beauty",
+      "alt_es": "Uñas con decoración en relieve dorada y de colores",
+      "alt_ca": "Ungles amb decoració en relleu daurada i de colors",
+      "proporcion": "2268:4032",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/unas-decoracion-480.webp",
+          "ancho": 480,
+          "alto": 853,
+          "kb": 27
+        },
+        {
+          "archivo": "imagenes/web/unas-decoracion-800.webp",
+          "ancho": 800,
+          "alto": 1422,
+          "kb": 54
+        },
+        {
+          "archivo": "imagenes/web/unas-decoracion-1200.webp",
+          "ancho": 1200,
+          "alto": 2133,
+          "kb": 95
+        }
+      ]
+    },
+    "unas-rosa": {
+      "box": "beauty",
+      "alt_es": "Manicura rosa en dos manos con pequeños tatuajes en la muñeca",
+      "alt_ca": "Manicura rosa en dues mans amb petits tatuatges al canell",
+      "proporcion": "1099:1464",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/unas-rosa-480.webp",
+          "ancho": 480,
+          "alto": 639,
+          "kb": 23
+        },
+        {
+          "archivo": "imagenes/web/unas-rosa-800.webp",
+          "ancho": 800,
+          "alto": 1066,
+          "kb": 43
+        },
+        {
+          "archivo": "imagenes/web/unas-rosa-1099.webp",
+          "ancho": 1099,
+          "alto": 1464,
+          "kb": 66
+        }
+      ]
+    },
+    "manicura": {
+      "box": "beauty",
+      "alt_es": "Manicura en tono nude con anillos dorados",
+      "alt_ca": "Manicura en to nude amb anells daurats",
+      "proporcion": "450:600",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/manicura-450.webp",
+          "ancho": 450,
+          "alto": 600,
+          "kb": 16
+        }
+      ]
+    },
+    "pedicura": {
+      "box": "beauty",
+      "alt_es": "Pedicura con esmalte blanco",
+      "alt_ca": "Pedicura amb esmalt blanc",
+      "proporcion": "499:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/pedicura-499.webp",
+          "ancho": 499,
+          "alto": 700,
+          "kb": 11
+        }
+      ]
+    },
+    "depilacion-cejas": {
+      "box": "beauty",
+      "alt_es": "Ceja antes y después de la depilación",
+      "alt_ca": "Cella abans i després de la depilació",
+      "proporcion": "800:800",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/depilacion-cejas-480.webp",
+          "ancho": 480,
+          "alto": 480,
+          "kb": 19
+        },
+        {
+          "archivo": "imagenes/web/depilacion-cejas-800.webp",
+          "ancho": 800,
+          "alto": 800,
+          "kb": 38
+        }
+      ]
+    },
+    "tattoo-mano-alzada": {
+      "box": "tattoo",
+      "alt_es": "Tatuaje de dragón a mano alzada en el antebrazo",
+      "alt_ca": "Tatuatge de drac a mà alçada a l'avantbraç",
+      "proporcion": "527:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-mano-alzada-527.webp",
+          "ancho": 527,
+          "alto": 700,
+          "kb": 50
+        }
+      ]
+    },
+    "tattoo-personalizado": {
+      "box": "tattoo",
+      "alt_es": "Tatuaje personalizado de un ángel en la pierna",
+      "alt_ca": "Tatuatge personalitzat d'un àngel a la cama",
+      "proporcion": "532:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-personalizado-532.webp",
+          "ancho": 532,
+          "alto": 700,
+          "kb": 30
+        }
+      ]
+    },
+    "tattoo-cover": {
+      "box": "tattoo",
+      "alt_es": "Cover: flor en negro que tapa un tatuaje antiguo en el codo",
+      "alt_ca": "Cover: flor en negre que tapa un tatuatge antic al colze",
+      "proporcion": "526:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-cover-526.webp",
+          "ancho": 526,
+          "alto": 700,
+          "kb": 22
+        }
+      ]
+    },
+    "tattoo-arreglo": {
+      "box": "tattoo",
+      "alt_es": "Arreglo de tatuajes en los dedos, antes y después",
+      "alt_ca": "Arranjament de tatuatges als dits, abans i després",
+      "proporcion": "379:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-arreglo-379.webp",
+          "ancho": 379,
+          "alto": 700,
+          "kb": 27
+        }
+      ]
+    },
+    "tattoo-mini": {
+      "box": "tattoo",
+      "alt_es": "Dos mini tattoos de mariposas geométricas a juego",
+      "alt_ca": "Dos mini tattoos de papallones geomètriques a joc",
+      "proporcion": "559:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-mini-559.webp",
+          "ancho": 559,
+          "alto": 700,
+          "kb": 30
+        }
+      ]
+    },
+    "tattoo-grupo": {
+      "box": "tattoo",
+      "alt_es": "Tatuajes en grupo: tres muñecas con el mismo diseño",
+      "alt_ca": "Tatuatges en grup: tres canells amb el mateix disseny",
+      "proporcion": "523:700",
+      "variantes": [
+        {
+          "archivo": "imagenes/web/tattoo-grupo-523.webp",
+          "ancho": 523,
+          "alto": 700,
+          "kb": 28
+        }
+      ]
+    }
+  },
+  "logo": [
+    {
+      "archivo": "imagenes/web/logo-160.webp",
+      "ancho": 160,
+      "alto": 160
+    },
+    {
+      "archivo": "imagenes/web/logo-320.webp",
+      "ancho": 320,
+      "alto": 320
+    },
+    {
+      "archivo": "imagenes/web/logo-500.webp",
+      "ancho": 500,
+      "alto": 500
+    }
+  ],
+  "logo_png": "imagenes/web/logo-500.png"
+}
