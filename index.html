@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Página temporal para elegir estilo. Se sustituye por la portada real cuando se elija una propuesta. -->
+  <meta name="robots" content="noindex, nofollow">
+  <title>Urban Art Lab · Propuestas de estilo</title>
+  <link rel="icon" href="imagenes/web/logo-160.webp">
+  <style>
+    @font-face { font-family: "Manrope"; src: url("fuentes/manrope-variable.woff2") format("woff2"); font-weight: 200 800; font-display: swap; }
+    :root { --fondo: #f6f1ea; --texto: #1d1a17; --suave: #5c534b; --cobre: #84533b; --linea: #d9cfc3; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--fondo); color: var(--texto); font: 400 1rem/1.55 "Manrope", system-ui, sans-serif; }
+    .aviso { background: #ffd83d; color: #1d1a17; text-align: center; font-weight: 700; font-size: .95rem; padding: .6rem 1rem; }
+    main { max-width: 44rem; margin: 0 auto; padding: 2.5rem 1rem 4rem; }
+    header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem; }
+    header img { width: 64px; height: 64px; }
+    h1 { font-size: clamp(1.6rem, 5vw, 2.2rem); line-height: 1.15; margin: 0; }
+    p { color: var(--suave); margin: 0 0 1rem; }
+    ol { list-style: none; padding: 0; margin: 2rem 0 0; display: grid; gap: .9rem; }
+    a.tarjeta { display: grid; grid-template-columns: 3rem 1fr auto; align-items: center; gap: 1rem; padding: 1.1rem 1.2rem; background: #fff; border: 1px solid var(--linea); border-radius: 14px; color: inherit; text-decoration: none; min-height: 44px; transition: border-color .2s, transform .2s; }
+    a.tarjeta:hover { border-color: var(--cobre); transform: translateY(-2px); }
+    a.tarjeta:focus-visible { outline: 3px solid var(--cobre); outline-offset: 3px; }
+    .num { font-size: 1.6rem; font-weight: 800; color: var(--cobre); }
+    .nombre { display: block; font-weight: 700; font-size: 1.1rem; }
+    .linea { display: block; color: var(--suave); font-size: .95rem; }
+    .flecha { font-size: 1.3rem; color: var(--cobre); }
+    footer { margin-top: 2.5rem; font-size: .9rem; color: var(--suave); }
+  </style>
+</head>
+<body>
+  <div class="aviso">Dirección de pruebas: esto no es la web real</div>
+  <main>
+    <header>
+      <img src="imagenes/web/logo-160.webp" width="64" height="64" alt="Sello de Urban Art Lab">
+      <h1>Urban Art Lab: cinco propuestas de portada</h1>
+    </header>
+    <p>Las cinco llevan los textos, los precios y las fotos reales. Cambia el estilo, no el contenido. Ábrelas en el móvil y quédate con la que más te guste, o con piezas de varias.</p>
+    <p>Lo que sale en amarillo con [COMPLETAR] son datos que aún faltan.</p>
+    <ol>
+      <li><a class="tarjeta" href="propuesta-1/"><span class="num">1</span><span><span class="nombre">Negro y cobre</span><span class="linea">La más fiel a la marca de ahora: fondo negro, letras grandes y estrechas, y el cobre del sello.</span></span><span class="flecha" aria-hidden="true">→</span></a></li>
+      <li><a class="tarjeta" href="propuesta-2/"><span class="num">2</span><span><span class="nombre">Kraft y cobre, editorial</span><span class="linea">La más parecida a las webs que te gustan: fondo crema, letra fina con cursivas y mucho aire.</span></span><span class="flecha" aria-hidden="true">→</span></a></li>
+      <li><a class="tarjeta" href="propuesta-3/"><span class="num">3</span><span><span class="nombre">Tres boxes, tres colores</span><span class="linea">Cada box con su color (nude, azul noche y negro): se ve a la primera adónde ir.</span></span><span class="flecha" aria-hidden="true">→</span></a></li>
+      <li><a class="tarjeta" href="propuesta-4/"><span class="num">4</span><span><span class="nombre">Blanco, negro y aire</span><span class="linea">Minimalista y elegante. Los precios de protagonistas y el cobre solo en los detalles.</span></span><span class="flecha" aria-hidden="true">→</span></a></li>
+      <li><a class="tarjeta" href="propuesta-5/"><span class="num">5</span><span><span class="nombre">Gigante y en relieve</span><span class="linea">La más urbana: letras enormes, bloques con cortes en diagonal y tarjetas con relieve.</span></span><span class="flecha" aria-hidden="true">→</span></a></li>
+    </ol>
+    <footer>Urban Art Lab · Carrer d'Esperanza González, 5 · Lleida</footer>
+  </main>
+</body>
+</html>
